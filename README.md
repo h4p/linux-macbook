@@ -22,3 +22,6 @@ I had to activate `snap` in order to install this mail client
     $ sudo apt update
     $ sudo apt install snapd
     $ sudo snap install prospect-mail
+
+## Redshift
+Start `Redshift` from the programs list and click the bulp in the tray and say `Start automatically`

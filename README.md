@@ -25,3 +25,8 @@ I had to activate `snap` in order to install this mail client
 
 ## Redshift
 Start `Redshift` from the programs list and click the bulp in the tray and say `Start automatically`
+
+## Clipboard Manager
+I've selected [CopyQ](http://hluk.github.io/CopyQ/) as it seems to be the most adavanced clipboard manager around for Ubuntu.
+
+     $ sudo apt install copyq copyq-doc copyq-plugins
